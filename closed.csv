@@ -1,0 +1,5 @@
+title,state,created_at,user_name,html_url
+Add uuid:compare() method,closed,2020-11-11 07:16:46,Alexey Kuzin,https://github.com/tarantool/tarantool/issues/5511
+Interrupt infinite lua loop,closed,2020-01-26 14:40:06,Michael Filonenko,https://github.com/tarantool/tarantool/issues/4748
+Remote-control connections are not dropped after box.cfg,closed,2020-01-13 10:31:31,Dmitry Sharonov,https://github.com/tarantool/cartridge/issues/462
+Display permanent and hidden roles in the Server Details window,closed,2020-07-13 08:48:59,Alexey Kuzin,https://github.com/tarantool/cartridge/issues/940
