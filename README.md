@@ -18,6 +18,7 @@ python3 main.py
 ```
 * Format of date -- %m/%d/%y
 * STATE = "all" | "closed" | "all"
+* TOKEN needs full `repo` access to be able to scan private repos
 
 
 ### Example of output
